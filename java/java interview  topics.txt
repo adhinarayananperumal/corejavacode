@@ -1,0 +1,111 @@
+jdk
+jre
+java platform independent
+
+
+variable
+datatype
+primitive datatype
+Object
+static variable
+instance variable
+local variable
+
+pass by value
+pass by address
+return type
+static block
+wrapper class
+
+
+OOPS
+inheritance
+Encapsulation - public , private , protected , default 
+polymorphism -
+abstract
+interface
+overloading
+over riding
+super , this , constructor , overloaded constructor , 
+final key word
+
+Array
+
+string
+String buffer
+string tokenizer
+string builder
+
+
+exception handling 
+throw
+throws
+try
+catch
+finally
+nested exception
+nested catch
+checked exception
+unchecked exception
+throwable
+
+thread
+lifecycle
+runnable
+Thread class
+asynchronous programming
+sleep
+wait
+synchronization
+thread group
+
+
+Heap memory
+stack memory
+
+I/O
+character stream
+byte stream
+how to find end of file
+BufferedStream
+clone
+
+date
+timestamp
+
+
+collection
+List 
+set
+map
+tree
+Queue
+stack
+concurrent collection
+comparator
+comparable
+sorting in collection
+equals method
+hash code method
+delete an element in set other than string
+find an element in a set other than string
+
+
+
+jdbc
+driver type
+statement
+prepared statement
+callablestatement
+connection
+resultset
+transaction management
+transaction begin
+commit
+rollback
+ACID properties
+
+
+
+
+
